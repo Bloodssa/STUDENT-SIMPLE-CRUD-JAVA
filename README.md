@@ -1,7 +1,8 @@
-Simple Student CRUD Console Basaed in Java
+#Simple Student CRUD Console Basaed in Java
 This is a simple Java Desktop application that demonstrates CRUD (Create, Read, Update, Delete) operations for managing student data.
 
-Features
+#Features
+
 Create: Add a new student record to the database.
 
 Read: View all student records.
